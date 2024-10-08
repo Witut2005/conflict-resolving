@@ -1,1 +1,2 @@
+bool drzwi = true;
 bool window = true;
